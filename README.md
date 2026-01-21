@@ -1,6 +1,7 @@
-# DSA＋DAG  
-Distribution Structure Analysis + Directed Acyclic Graph  
-A Causal Inference AI Module for Real-World Data
+**DSA＋DAG (Distribution Structure Analysis + Directed Acyclic Graph)**  
+is a causal inference AI framework for healthcare and pharmaceutical real-world data (RWD),  
+designed to identify structural heterogeneity and explicitly model causal mechanisms beyond correlation.
+
 
 ## Overview
 DSA＋DAG is an integrated causal inference framework combining
@@ -33,10 +34,16 @@ to interpret real-world data beyond correlation.
 ## Status
 - Patent pending
 - Manuscript under peer review (Medical Research Methodology)
+- This repository serves as a conceptual and citation hub; no source code is publicly released.
 
 ## Citation
-If you refer to this framework, please cite as:
-"DSA＋DAG: Distribution Structure Analysis integrated with Directed Acyclic Graphs for causal inference in real-world data."
+@misc{DSA-DAG,
+  title = {DSA+DAG: Distribution Structure Analysis integrated with Directed Acyclic Graphs for causal inference in real-world data},
+  author = {S.I Lab Inc.},
+  year = {2026},
+  note = {Patent pending}
+}
+
 
 ## Author
 S.I Lab Inc.
