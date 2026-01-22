@@ -1,8 +1,3 @@
-## Relationship to DSA+DAG
-This repository provides the core algorithmic implementation of Distribution Structure Analysis (DSA).
-The conceptual framework integrating DSA with causal modeling (DAG) is described here:
-https://github.com/dsa-dag/DSA-DAG
-
 **DSA＋DAG (Distribution Structure Analysis + Directed Acyclic Graph)**  
 is a causal inference AI framework for healthcare and pharmaceutical real-world data (RWD),  
 designed to identify structural heterogeneity and explicitly model causal mechanisms beyond correlation.
@@ -49,6 +44,12 @@ to interpret real-world data beyond correlation.
   note = {Patent pending}
 }
 
+## Algorithmic Foundation
+
+The DSA component is implemented and validated in the following repository:
+https://github.com/Okazaki-Lab/DSA-algorithm
+
+This implementation demonstrates audit-ready, reproducible distribution structure analysis.
 
 ## Author
 S.I Lab Inc.
