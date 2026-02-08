@@ -43,6 +43,8 @@ to interpret real-world data beyond correlation.
   year = {2026},
   note = {Patent pending}
 }
+Preprint (DOI): https://doi.org/10.1101/2025.11.03.25339124  
+Repository citation metadata: see `CITATION.cff`.
 
 ## Algorithmic Foundation
 
