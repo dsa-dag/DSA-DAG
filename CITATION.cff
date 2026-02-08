@@ -1,6 +1,6 @@
 cff-version: 1.2.0
-message: "If you use DSA+DAG, please cite this repository and the associated preprint/paper."
-title: "DSA+DAG (Distribution Structure Analysis + Directed Acyclic Graph)"
+message: "If you use this work, please cite the preprint via the DOI below."
+title: "DSA+DAG (Distribution Structure Analysis + Directed Acyclic Graph): audit-ready causal inference framework"
 type: software
 authors:
   - family-names: Okazaki
@@ -8,11 +8,14 @@ authors:
     affiliation: "S.I Lab Inc."
 repository-code: "https://github.com/dsa-dag-org/DSA-DAG"
 url: "https://github.com/dsa-dag-org/DSA-DAG"
-abstract: "An audit-ready causal inference framework integrating Distribution Structure Analysis (DSA) with Directed Acyclic Graphs (DAG) for real-world data."
-keywords:
-  - causal inference
-  - DAG
-  - heterogeneity
-  - real-world data
-  - audit-ready
-license: "CC-BY-4.0"
+identifiers:
+  - type: doi
+    value: 10.1101/2025.11.03.25339124
+preferred-citation:
+  type: article
+  title: "A Generalizable Distribution Structure Analysis Algorithm with Audit-Ready Framework for Medical Research"
+  authors:
+    - family-names: Okazaki
+      given-names: Michio
+  doi: 10.1101/2025.11.03.25339124
+  url: "https://doi.org/10.1101/2025.11.03.25339124"
