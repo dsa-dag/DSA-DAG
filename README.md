@@ -53,3 +53,13 @@ This implementation demonstrates audit-ready, reproducible distribution structur
 
 ## Author
 S.I Lab Inc.
+
+## Citation
+
+If you use DSA+DAG in academic work, please cite this repository.
+
+- Preferred: use the GitHub “Cite this repository” button (CITATION.cff).
+- Alternatively: cite the associated preprint/paper (link below).
+
+### Related repositories
+- DSA core (concept & citation hub): https://github.com/dsa-dag-org/Distribution-Structure-Analysis
